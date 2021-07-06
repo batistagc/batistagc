@@ -1,10 +1,11 @@
 # Hello there, I'm Gabriel 👋🏾
-<p align="center">
+
 <br>
 A brazilian 🇧🇷 computer science student at the Mackenzie Presbyterian University, currently learning about iOS development and some machine learning skills.<br>
 A huge fan of open source projects, UI, inclusive initiatives and black coffee ☕️ <br>
 I'm always interested about the impact of technology on the society and the minority groups.
 <br><br>
+<p align="center">
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 </p>
 
