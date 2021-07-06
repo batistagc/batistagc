@@ -6,7 +6,7 @@
 A brazilian computer science student at the Mackenzie Presbyterian University.🇧🇷 <br><br>
 Currently learning about iOS development and some machine learning skills.🤖<br><br>
 A huge fan of open source projects, UI, inclusive initiatives and black coffee ☕️ <br><br>
-I'm always interested about the impact of technology on the society and the minority groups.✊🏾
+I'm always interested about the impact of technology on society and minority groups.✊🏾
 </p>
 
 
@@ -52,6 +52,8 @@ I'm always interested about the impact of technology on the society and the mino
 # 👥 Follow me!
 <br>
 
+[![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-batista-cristiano-835668178/)
+[![Foo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/batistagc/)
 [![Foo](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabriel.batista.524934/)
 
 <!--
