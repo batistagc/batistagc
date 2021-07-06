@@ -5,6 +5,8 @@
 
 #
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistagc&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batistagc&layout=compact)](https://github.com/batistagc/github-readme-stats)
+
 
 #
 <details> ##
