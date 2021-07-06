@@ -10,10 +10,9 @@ I'm always interested about the impact of technology on the society and the mino
 </p>
 
 #
+<p align="center">
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistagc&show_icons=true&theme=radical)
-
-
-
+</p>
 #
 <details> 
   <summary>  <b> 🛠 Languages and tools </b> <i>(click to expand!)</i> </summary>
