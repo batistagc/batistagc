@@ -46,8 +46,10 @@ I'm always interested about the impact of technology on the society and the mino
   
   <br>
    This is going to be hidden.
+   
+<br><br>
 
- 
+# 👥 Follow me!
 
 <!--
 **batistagc/batistagc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
