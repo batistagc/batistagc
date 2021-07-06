@@ -52,7 +52,6 @@ I'm always interested about the impact of technology on the society and the mino
 # 👥 Follow me!
 <br>
 
-![Image of FACEBOOK badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 [![Foo](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabriel.batista.524934/)
 
 <!--
