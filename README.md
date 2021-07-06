@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistagc&show_icons=true&theme=radical)
+
+
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
