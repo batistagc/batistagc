@@ -1,5 +1,5 @@
 # Hello there, I'm Gabriel 👋🏾
-<p>A brazilian computer science student at the Mackenzie Presbyterian University, currently learning about iOS development and some machine learning skills.</p>
+<p>A brazilian 🇧🇷 computer science student at the Mackenzie Presbyterian University, currently learning about iOS development and some machine learning skills.</p>
 <p>A huge fan of open source projects, UI, inclusive initiatives and black coffee ☕️ </p>
 <p>I'm always interested about the impact of technology on the society and the minority groups.</p>
 
@@ -8,7 +8,7 @@
 
 #
 <details>
-  <summary> <b> 🛠 Languages and tools </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> ## 🛠 Languages and tools </b> <i>(click to expand!)</i> </summary>
   
   <br>
    This is going to be hidden.
