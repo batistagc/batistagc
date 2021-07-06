@@ -13,8 +13,9 @@ I'm always interested about the impact of technology on the society and the mino
 # 📊 Stats
 
 <br>
-
+<div align="center">
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistagc&show_icons=true&theme=radical)
+</div>
 <br><br>
 
 # 🛠 Languages and tools 
@@ -32,6 +33,7 @@ I'm always interested about the impact of technology on the society and the mino
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batistagc&layout=compact)](https://github.com/batistagc/github-readme-stats)
  
 </div>
+<br><br>
 
 # 👨🏾‍💻 Currently working on:
 
