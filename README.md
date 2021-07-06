@@ -8,7 +8,7 @@
 
 #
 <details>
-  <summary> ## <b> 🛠 Languages and tools </b> <i>(click to expand!)</i> </summary>
+  <summary> ##  🛠 Languages and tools  <i>(click to expand!)</i> </summary>
   
   <br>
    This is going to be hidden.
