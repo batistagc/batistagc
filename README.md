@@ -45,7 +45,6 @@ I'm always interested about the impact of technology on society and minority gro
 
   
   <br>
-   This is going to be hidden.
    
 <br><br>
 
