@@ -1,4 +1,5 @@
 # Hi there, I'm Gabriel 👋🏾
+
 <p align="center">
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 <br><br>
@@ -6,9 +7,8 @@ A brazilian computer science student at the Mackenzie Presbyterian University.�
 Currently learning about iOS development and some machine learning skills.🤖<br><br>
 A huge fan of open source projects, UI, inclusive initiatives and black coffee ☕️ <br><br>
 I'm always interested about the impact of technology on the society and the minority groups.✊🏾
-
-
 </p>
+
 
 ## 📊 Stats
 
@@ -17,7 +17,7 @@ I'm always interested about the impact of technology on the society and the mino
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistagc&show_icons=true&theme=radical)
 <br><br>
 
-# 🛠 Languages and tools <br> 
+## 🛠 Languages and tools <br> 
  
   ![Image of python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Image of C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -29,14 +29,12 @@ I'm always interested about the impact of technology on the society and the mino
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batistagc&layout=compact)](https://github.com/batistagc/github-readme-stats)
  
-#
- 
- <details>
-  <summary> <b> 👨🏾‍💻 Currently working on:  </b> <i>(click to expand!)</i> </summary>
+## 👨🏾‍💻 Currently working on:
+
   
   <br>
    This is going to be hidden.
- </details>
+
  
 
 <!--
