@@ -3,6 +3,7 @@
 <p>A huge fan of open source projects, UI, inclusive initiatives and black coffee ☕️ </p>
 <p>I'm always interested about the impact of technology on the society and the minority groups.</p>
 
+#
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistagc&show_icons=true&theme=radical)
 
 
