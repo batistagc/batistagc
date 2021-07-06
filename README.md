@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Gabriel 👋
+## A brazilian computer science student, currently learning about iOS development on Apple Developer academy. 
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistagc&show_icons=true&theme=radical)
 
