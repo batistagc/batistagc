@@ -7,8 +7,8 @@
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistagc&show_icons=true&theme=radical)
 
 #
-<details>
-  <summary> ##  🛠 Languages and tools  <i>(click to expand!)</i> </summary>
+<details> ##
+  <summary>  <b> 🛠 Languages and tools </b> <i>(click to expand!)</i> </summary>
   
   <br>
    This is going to be hidden.
