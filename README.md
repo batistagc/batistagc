@@ -1,5 +1,7 @@
-# Hi there, I'm Gabriel 👋
-### A brazilian computer science student, currently learning about iOS development on Apple Developer academy. 
+# Hello there, I'm Gabriel 👋🏾
+### A brazilian computer science student at the Mackenzie Presbyterian University, currently learning about iOS development and some machine learning skills.
+A huge fan of open source projects, UI, inclusive initiatives and black coffee ☕️
+I'm always interested about the impact of technology on the society and the minority groups.
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistagc&show_icons=true&theme=radical)
 
