@@ -51,10 +51,13 @@ I'm always interested about the impact of technology on society and minority gro
 # 👥 Follow me!
 <br>
 
+<p align="center">
+
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-batista-cristiano-835668178/)
 [![Foo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/batistagc/)
 [![Foo](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabriel.batista.524934/)
 
+ </p>
 <!--
 **batistagc/batistagc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
