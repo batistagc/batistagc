@@ -17,8 +17,8 @@ I'm always interested about the impact of technology on the society and the mino
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistagc&show_icons=true&theme=radical)
 <br><br>
 
-# 🛠 Languages and tools
-<br>  
+# 🛠 Languages and tools <br> 
+ 
   ![Image of python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Image of C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Image of C++ badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
