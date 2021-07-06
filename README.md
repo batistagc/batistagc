@@ -6,13 +6,21 @@
 #
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistagc&show_icons=true&theme=radical)
 
-
+#
 <details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> 🛠 Languages and tools </b> <i>(click to expand!)</i> </summary>
   
   <br>
    This is going to be hidden.
  </details>
+ 
+ <details>
+  <summary> <b> 👨🏾‍💻 Currently working on  </b> <i>(click to expand!)</i> </summary>
+  
+  <br>
+   This is going to be hidden.
+ </details>
+ 
 
 <!--
 **batistagc/batistagc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
