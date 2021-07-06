@@ -28,10 +28,11 @@ I'm always interested about the impact of technology on the society and the mino
   ![Image of CSS badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Image of Swift badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
  
- </div>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batistagc&layout=compact)](https://github.com/batistagc/github-readme-stats)
  
+</div>
+
 # 👨🏾‍💻 Currently working on:
 
   
