@@ -5,7 +5,7 @@
 <br><br>
 A brazilian computer science student at the Mackenzie Presbyterian University.🇧🇷 <br><br>
 Currently learning about iOS development and some machine learning skills.🤖<br><br>
-A huge fan of open source projects, UI, inclusive initiatives and black coffee ☕️ <br><br>
+A huge fan of open source projects, UI/UX Design, inclusive initiatives and black coffee ☕️ <br><br>
 I'm always interested about the impact of technology on society and minority groups.✊🏾
 </p>
 
