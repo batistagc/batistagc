@@ -43,8 +43,8 @@ I'm always interested about the impact of technology on society and minority gro
 
 # 👨🏾‍💻 Currently working on:
 
-  ## Sussurros
-   🔗 https://github.com/batistagc/Oregano
+  > 🔗 Sussurros: https://github.com/batistagc/Oregano
+    
   <br>
    
 <br><br>
