@@ -42,11 +42,11 @@ I'm always interested about the impact of technology on society and minority gro
 <br><br>
 
 # 👨🏾‍💻 Currently working on:
-
-  > 🔗 Sussurros: https://github.com/batistagc/Oregano
-    
-  <br>
    
+  ### 🔗 SPerifa: https://github.com/thallissousa/SPerifa.git
+  
+  <br>
+  
 <br><br>
 
 # 👥 Follow me!
