@@ -1,14 +1,14 @@
 # Hi there, I'm Gabriel 👋🏾
 
-<p align="center">
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-<br>
+<p align="left">
 * 🇧🇷 A brazilian computer science student at the Mackenzie Presbyterian University. <br>
 * 🤖 Currently learning Swift and iOS development.<br>
 * ☕️ A huge fan of open source projects, UI / UX Design, IoT, inclusive initiatives and black coffee<br>
 * ✊🏾 I'm always interested about the impact of technology on society and minority groups.
 </p>
-
+<p align="center">
+ <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+</p>
 
 # 📊 Stats
 
