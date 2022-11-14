@@ -3,10 +3,10 @@
 <p align="center">
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 <br><br>
-- A brazilian computer science student at the Mackenzie Presbyterian University.🇧🇷 <br>
-Currently learning about iOS development and some machine learning skills.🤖<br><br>
-A huge fan of open source projects, UI / UX Design, inclusive initiatives and black coffee ☕️ <br><br>
-I'm always interested about the impact of technology on society and minority groups.✊🏾
+* A brazilian computer science student at the Mackenzie Presbyterian University.🇧🇷 <br>
+* Currently learning about iOS development and some machine learning skills.🤖<br>
+* A huge fan of open source projects, UI / UX Design, inclusive initiatives and black coffee ☕️ <br>
+* I'm always interested about the impact of technology on society and minority groups.✊🏾
 </p>
 
 
