@@ -3,10 +3,10 @@
 <p align="center">
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 <br>
-* A brazilian computer science student at the Mackenzie Presbyterian University.🇧🇷 <br>
-* Currently learning about iOS development and some machine learning skills.🤖<br>
-* A huge fan of open source projects, UI / UX Design, inclusive initiatives and black coffee ☕️ <br>
-* I'm always interested about the impact of technology on society and minority groups.✊🏾
+* 🇧🇷 A brazilian computer science student at the Mackenzie Presbyterian University. <br>
+* 🤖 Currently learning Swift and iOS development.<br>
+* ☕️ A huge fan of open source projects, UI / UX Design, IoT, inclusive initiatives and black coffee<br>
+* ✊🏾 I'm always interested about the impact of technology on society and minority groups.
 </p>
 
 
@@ -16,6 +16,7 @@
 <div align="center">
  
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistagc&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batistagc&layout=compact)](https://github.com/batistagc/github-readme-stats)
  
 </div>
 <br><br>
@@ -34,9 +35,6 @@
   ![Image of IOS badge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
   ![Image of WINDOWS badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Image of UBUNTU badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
- 
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batistagc&layout=compact)](https://github.com/batistagc/github-readme-stats)
  
 </div>
 <br><br>
