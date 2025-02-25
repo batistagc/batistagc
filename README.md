@@ -1,9 +1,9 @@
 # Hi there, I'm Gabriel 👋🏾
 
 <p align="left">
-* 🇧🇷 A brazilian computer science student at the Mackenzie Presbyterian University. <br>
-* 🤖 Currently learning Swift and iOS development.<br>
-* ☕️ A huge fan of open source projects, UI / UX Design, IoT, inclusive initiatives and black coffee<br>
+* 🇧🇷 A brazilian iOS developer. <br>
+* 🤖 Currently developing and always learning about Swift and iOS development.<br>
+* ☕️ I'm also a huge fan of data, AI, machine learning projects and black coffee<br>
 * ✊🏾 I'm always interested about the impact of technology on society and minority groups.
 </p>
 <p align="center">
@@ -53,8 +53,6 @@
 <div align="center">
 
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-batista-cristiano-835668178/)
-[![Foo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/batistagc/)
-[![Foo](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabriel.batista.524934/)
 
  </div>
 <!--
